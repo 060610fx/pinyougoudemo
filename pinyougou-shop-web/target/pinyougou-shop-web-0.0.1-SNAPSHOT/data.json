@@ -1,0 +1,6 @@
+[
+	{"name":"张三","shuxue":100,"yuwen":100},
+	{"name":"李四","shuxue":90,"yuwen":92},
+	{"name":"王五","shuxue":40,"yuwen":50},
+	{"name":"赵六","shuxue":0,"yuwen":0}
+]
